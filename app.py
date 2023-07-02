@@ -1,3 +1,6 @@
+
+# ************* USING OPEN AI API*********************************
+
 # from dotenv import load_dotenv
 # import streamlit as st
 # from PyPDF2 import PdfReader
@@ -58,7 +61,7 @@
 
 
 
-# ************* USING GUGGING fACE*********************************
+# ************* USING HGUGGING FACE API*********************************
 
 from dotenv import load_dotenv
 import streamlit as st
