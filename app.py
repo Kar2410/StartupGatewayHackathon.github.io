@@ -73,7 +73,7 @@ from transformers import pipeline
 def main():
     load_dotenv()
     st.set_page_config(page_title="Ask your PDF")
-    st.header("Ask your PDF 💬")
+    st.header(" Mercor Hackathon - Ask your PDF 💬")
     
     # upload file
     pdf = st.file_uploader("Upload your PDF", type="pdf", key="pdf_file")
